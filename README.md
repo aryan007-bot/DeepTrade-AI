@@ -214,8 +214,6 @@ npm run move:upgrade
 *Trade smarter, not harder.*
 
 </div>
-```
 
----
 
 
