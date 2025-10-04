@@ -195,7 +195,7 @@ npm run move:upgrade
 
 ## 🔗 Links
 
-* 🌐 Website: [https://deeptrade-ai.vercel.app](https://deeptrade-ai.vercel.app)
+* 🌐 Website: [https://deeptrade-ai.vercel.app](https://deep-trade-ai-one.vercel.app/)
 * 🐦 X: [@aryan69853](https://x.com/aryan69853)
 * 📁 GitHub: [aryan007-bot/DeepTrade-AI](https://github.com/aryan007-bot/DeepTrade-AI)
 
