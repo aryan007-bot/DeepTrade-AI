@@ -13,6 +13,8 @@
 *Create autonomous trading bots using plain English. Deploy on-chain. Trade 24/7.*  
 
 [Live Demo](https://deeptrade-ai.vercel.app) • [Documentation](#documentation) • [Smart Contract](#smart-contract)
+<img width="1910" height="911" alt="Screenshot 2025-10-04 225631" src="https://github.com/user-attachments/assets/d6feebdb-f867-4586-8ff5-d8b9ef70e3e2" />
+
 
 </div>
 
