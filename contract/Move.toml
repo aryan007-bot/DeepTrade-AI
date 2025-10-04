@@ -1,0 +1,15 @@
+[package]
+name = "DeepTradeAI-TradingBot"
+version = "1.0.0"
+authors = []
+
+[addresses]
+trading_bot_addr = "_"
+
+[dev-addresses]
+trading_bot_addr = "0x64b0d0c590ac866988e39442f4bb7dc69f9ee956d9b45ed3128f751f2e430c1a"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
+
+[dev-dependencies]
