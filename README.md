@@ -3,20 +3,25 @@
 
 <div align="center">
 
-**AI-Powered Trading Bot Platform on Aptos Blockchain**  
+  **AI-Powered Trading Bot Platform on Aptos Blockchain**  
 
-[![Aptos](https://img.shields.io/badge/Aptos-Blockchain-00d2ce?style=for-the-badge)](https://aptos.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
-[![Move](https://img.shields.io/badge/Move-Smart_Contracts-00d2ce?style=for-the-badge)](https://move-language.github.io/move/)
+  [![Aptos](https://img.shields.io/badge/Aptos-Blockchain-00d2ce?style=for-the-badge)](https://aptos.dev)
+  [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+  [![Move](https://img.shields.io/badge/Move-Smart_Contracts-00d2ce?style=for-the-badge)](https://move-language.github.io/move/)
 
-*Create autonomous trading bots using plain English. Deploy on-chain. Trade 24/7.*  
+  *Create autonomous trading bots using plain English. Deploy on-chain. Trade 24/7.*  
 
-[Live Demo](https://deeptrade-ai.vercel.app) • [Documentation](#documentation) • [Smart Contract](#smart-contract)
-<img width="1910" height="911" alt="Screenshot 2025-10-04 225631" src="https://github.com/user-attachments/assets/d6feebdb-f867-4586-8ff5-d8b9ef70e3e2" />
+  [Live Demo](https://deeptrade-ai.vercel.app) • [Documentation](#documentation) • [Smart Contract](#smart-contract)
 
+  <br />
+
+  <a href="https://youtu.be/6oES9w4c31k" target="_blank">
+    <img width="1910" height="911" alt="DeepTrade AI Demo" src="https://github.com/user-attachments/assets/d6feebdb-f867-4586-8ff5-d8b9ef70e3e2" />
+  </a>
 
 </div>
+
 
 ---
 
